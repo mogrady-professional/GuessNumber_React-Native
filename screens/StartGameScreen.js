@@ -28,7 +28,7 @@ function StartGameScreen({ onPickNumber }) {
       console.log("Invalid number:", chosenNumber);
       return;
     }
-    console.log("Valid number:", chosenNumber);
+    console.log("Valid number chosen:", chosenNumber);
     onPickNumber(chosenNumber);
   }
 
