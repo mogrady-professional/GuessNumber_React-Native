@@ -14,5 +14,5 @@ web-build/
 .DS_Store
 
 #
-*.md
+# *.md
 .expo-shared/
