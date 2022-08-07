@@ -1,5 +1,9 @@
 # Guess Number Game — React-Native
 
+<p align="center" >
+ <img src="./images/guess-number-app.jpg"  height="auto" width="100%">
+</p>
+
 # Table of Contents
 
 - [Guess Number Game — React-Native](#guess-number-game--react-native)
